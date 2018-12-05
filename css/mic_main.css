@@ -121,7 +121,7 @@
 		z-index: 1;
 		margin-top: -6rem;
 		margin-bottom: 3rem;
-		min-height: 100vh;
+		min-height: 50vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
